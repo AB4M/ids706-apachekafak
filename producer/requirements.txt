@@ -1,0 +1,4 @@
+kafka-python==2.0.2
+faker==19.13.0
+numpy==2.1.2
+pytz==2023.3
